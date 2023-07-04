@@ -60,9 +60,7 @@ table {
 .bg-dark {
     background: darkorange;
 }
-.inline-block {
-    display: inline-block;
-}
+
 .outline {
     outline: 2px solid red;
 }
@@ -95,16 +93,6 @@ table {
 
 .h-400 {
     height: 400px;
-}
-
-.floattt {
-    float: left;
-}
-
-.clearfix::after {
-    display: block;
-    clear: both;
-    content: '.'
 }
 
 .flexx {
